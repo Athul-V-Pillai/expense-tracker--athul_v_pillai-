@@ -59,6 +59,29 @@ No installation or node modules are required!
 2. Double-click **`index.html`** or right-click and choose **"Open with Chrome / Edge / Safari / Firefox"**.
 3. Enjoy tracking your expenses!
 
+## 💻 Run on Another Device
+
+You can run Spendwise on another computer without installing Node.js or any dependencies.
+
+### Option 1: Download from GitHub
+
+1. Open the [Spendwise GitHub repository](https://github.com/Athul-V-Pillai/expense-tracker--athul_v_pillai-).
+2. Select **Code → Download ZIP**.
+3. Extract the ZIP file on the other device.
+4. Open the extracted folder and double-click **`index.html`**.
+
+### Option 2: Clone with Git
+
+If Git is installed, run:
+
+```bash
+git clone https://github.com/Athul-V-Pillai/expense-tracker--athul_v_pillai-.git
+```
+
+Then open the cloned folder and double-click **`index.html`**.
+
+Transactions are saved in the browser's local storage, so data created on one device will not automatically appear on another device.
+
 ---
 
 ## 📁 Project Structure
