@@ -2,6 +2,14 @@
 
 **Spendwise** is a modern, responsive personal finance and expense tracking web application built entirely with **Vanilla HTML5, CSS3, and JavaScript (ES6)**. It runs directly by opening `index.html` in any web browser without needing a build step, Node.js, or external frameworks.
 
+## 📸 Screenshots
+
+![Spendwise dashboard](screenshots/dashboard.png)
+
+![Add transaction form](screenshots/Transaction.png)
+
+![Transaction history](screenshots/Transaction_History.png)
+
 ---
 
 ## 🌟 Key Features
